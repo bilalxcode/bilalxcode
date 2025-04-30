@@ -15,10 +15,10 @@ I'm **Bilal**, a Software Engineering graduate from the University of Central Pu
 ## Technologies
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=py,c++,js,css,react)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,cpp,js,css,react)](https://skillicons.dev)
 
 ### Tools, OS and platforms where I usually do my work
-[![Skills](https://skillicons.dev/icons?i=azure,terraform,vscode,postman,mongodb,github,linux,ubuntu,windows,bash,powershell,cpp,python,js,react,nodejs)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=azure,terraform,vscode,postman,github,linux,ubuntu,windows,bash,powershell,cpp,python,js,react,nodejs)](https://skillicons.dev)
 
 ### Cloud tools that I have experience with  
 [![Tools](https://skillicons.dev/icons?i=azure,terraform,docker)](https://skillicons.dev)
@@ -31,7 +31,7 @@ I'm **Bilal**, a Software Engineering graduate from the University of Central Pu
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bilalxcode&repo=Pakwheels-clone-frontend&theme=dark)](https://github.com/bilalxcode/Pakwheels-clone-frontend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bilalxcode&repo=nodejs-blogging-website&theme=dark)](https://github.com/bilalxcode/nodejs-blogging-website)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bilalxcode&repo=websocket-chat-app&theme=dark)](https://github.com/bilalxcode/websocket-chat-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bilalxcode&repo=food-wastage-project=dark)](https://github.com/bilalxcode/food-wastage-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bilalxcode&repo=food-wastage-project&theme=dark)](https://github.com/bilalxcode/food-wastage-project)
 
 
 ---
