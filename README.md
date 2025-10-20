@@ -21,7 +21,7 @@ I'm **Bilal**, a Software Engineering graduate from the University of Central Pu
 [![Skills](https://skillicons.dev/icons?i=azure,terraform,vscode,postman,github,linux,ubuntu,windows,bash,powershell,cpp,python,js,react,nodejs)](https://skillicons.dev)
 
 ### Cloud tools that I have experience with  
-[![Tools](https://skillicons.dev/icons?i=azure,terraform,docker)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes)](https://skillicons.dev)
 
 
 ---
