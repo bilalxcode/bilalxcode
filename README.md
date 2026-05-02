@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=15A7F7&center=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;This+is+Kabir+%F0%9F%A5%B7" />
-</h1>
+
 
 #### 👦 ABOUT ME
 
